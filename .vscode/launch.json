@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "chrome",
+            "name": "https://raw.githack.com/toilet45/The-Royal-Tree/master/index.html",
+            "request": "launch",
+            "url": "https://raw.githack.com/toilet45/The-Royal-Tree/master/index.html"
+        }
+    ]
+}

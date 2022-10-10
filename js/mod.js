@@ -1,7 +1,7 @@
 let modInfo = {
 	name: "The Royal Tree",
 	id: "royalmod",
-	author: "nobody",
+	author: "Royalflush297",
 	pointsName: "antimatter",
 	modFiles: ["layers.js", "tree.js"],
 
@@ -42,7 +42,7 @@ function getPointGen() {
 	if(!canGenPoints())
 		return new Decimal(0)
 
-	let gain = new Decimal(1)
+	let gain = new Decimal(0)
 	return gain
 }
 
