@@ -1,24 +1,24 @@
 let modInfo = {
-	name: "The ??? Tree",
-	id: "mymod",
+	name: "The Royal Tree",
+	id: "royalmod",
 	author: "nobody",
-	pointsName: "points",
+	pointsName: "antimatter",
 	modFiles: ["layers.js", "tree.js"],
 
 	discordName: "",
 	discordLink: "",
 	initialStartPoints: new Decimal (10), // Used for hard resets and new players
-	offlineLimit: 1,  // In hours
+	offlineLimit: 24,  // In hours
 }
 
 // Set your version in num and name
 let VERSION = {
-	num: "0.0",
+	num: "negative_infinity.0",
 	name: "Literally nothing",
 }
 
 let changelog = `<h1>Changelog:</h1><br>
-	<h3>v0.0</h3><br>
+	<h3>vnegative infinity.0</h3><br>
 		- Added things.<br>
 		- Added stuff.`
 
